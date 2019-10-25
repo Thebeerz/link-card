@@ -29,19 +29,24 @@ p {
 
 dl {
   color: #512200;
-  padding: .4em .75em .5em;
+  margin: .5em;
+  margin-left: 0;
+  padding: .4em .75em 0 0;
   display: inline-block;
+  line-height: 1.4;
 }
 
 dd {
+  font-weight: 100;
   display: inline-block;
   font-size: .875rem;
 }
 
 dt {
+  font-weight: 100;
   font-size: .875rem;
   display: inline-block;
-  width: 38%;
+  width: 35%;
 }
 
 .btn-wrap {
