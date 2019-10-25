@@ -33,10 +33,10 @@ dl {
   color: #512200;
   padding: .4em .75em .5em;
   line-height: .75;
-  display: inline-block;
   margin-bottom: 0;
+  padding-left: 0;
+  display: inline-block;
 }
-
 
 dd {
   display: inline-block;
@@ -57,6 +57,8 @@ dt {
   margin-left: 4.5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-family: Dosis, sans-serif;
+  font-weight: bold;
 }
 
 .line {
