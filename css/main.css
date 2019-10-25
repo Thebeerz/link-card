@@ -41,6 +41,7 @@ dd {
 dt {
   font-size: .875rem;
   display: inline-block;
+  width: 38%;
 }
 
 .btn-wrap {
