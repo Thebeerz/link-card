@@ -15,11 +15,6 @@ a {
 
 header {
   padding: .5em;
-  margin: 0 0 1rem;
-  border-style: solid;
-  border-color: #9a816d;
-  border-radius: 3px;
-  background-color: #dcd4cd;
 }
 
 h2 {
@@ -72,6 +67,17 @@ dt {
   border-style: solid;
   border-color: #9a816d;
   border-width: 1px;
+}
+
+.link-card {
+  display: inline-block;
+  background-color: #dcd4cd;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #9a816d;
+  border-radius: 6px;
+  margin: 0 0 1rem;
+  padding: .75rem;
 }
 
 .link-card:hover {
