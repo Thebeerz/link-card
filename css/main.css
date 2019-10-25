@@ -33,21 +33,22 @@ dl {
   color: #512200;
   padding: .4em .75em .5em;
   line-height: .75;
-  display: inline-block;
+  display: inline;
   margin-bottom: 0;
 }
 
 dd {
   font-size: .875rem;
   padding-left: 0;
-  display: inline-block;
+  display: inline;
 }
 
 dt {
   font-size: .875rem;
   padding: .2em;
   text-align: left;
-  display: inline-block;
+  display: inline;
+  float: left;
 }
 
 .btn-wrap {
@@ -56,7 +57,7 @@ dt {
   display: inline-block;
   color: #fff;
   padding: .4em .75em .5em;
-  margin-left: 6rem;
+  margin-left: 4.5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
