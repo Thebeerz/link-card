@@ -3,6 +3,8 @@ html {
   font-family: Georgia;
   line-height: 1.5;
   background-color: #f0eee8;
+  margin: 0;
+  padding: 0;
 }
 
 *, *::before, *::after {
@@ -56,7 +58,7 @@ dt {
   padding: .4em .75em .5em;
   margin-left: 4.5rem;
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: .2rem;
   font-family: Dosis, sans-serif;
   font-weight: bold;
 }
@@ -76,7 +78,7 @@ dt {
   border-width: 3px;
   border-color: #9a816d;
   border-radius: 6px;
-  margin: 0 0 1rem;
+  margin: 0;
   padding: .75rem;
 }
 
