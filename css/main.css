@@ -1,7 +1,8 @@
 html {
   box-sizing: border-box;
-  font: Georgia;
+  font-family: Georgia;
   line-height: 1.5;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
@@ -22,7 +23,7 @@ header {
 }
 
 h2 {
-  font: Dosis, sans-serif;
+  font-family: Dosis, sans-serif;
   color: #512200;
   font-size: 1.5rem;
   text-decoration: none;
